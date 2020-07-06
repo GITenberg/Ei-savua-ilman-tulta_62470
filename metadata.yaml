@@ -1,0 +1,38 @@
+_repo: Ei-savua-ilman-tulta_62470
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Jasinskaja, Olga
+    gutenberg_agent_id: '51950'
+    url: http://www.gutenberg.org/2009/agents/51950
+creator:
+  author:
+    agent_name: Bayard, Jean-François-Alfred
+    aliases:
+    - Bayard, J. F. (Jean-François)
+    - Bayard, Jean-Francois-Alfred
+    - Bayard, M.
+    - Bayard, Jean F. A.
+    - Bayard, F. (François)
+    birthdate: 1796
+    deathdate: 1853
+    gutenberg_agent_id: '48439'
+    url: http://www.gutenberg.org/2009/agents/48439
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Bayard
+    - https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Bayard
+description: ''
+gutenberg_issued: '2020-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62470'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French drama -- Translations into Finnish'
+- GITenberg
+title: Ei savua ilman tulta
+url: http://www.gutenberg.org/ebooks/62470
